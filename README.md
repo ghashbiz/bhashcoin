@@ -1,1 +1,2 @@
 # bhashcoin
+fork test bitcoin
